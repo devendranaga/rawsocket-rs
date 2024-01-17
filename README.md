@@ -8,7 +8,7 @@ Change interface name in `Raw_Socket::init()` from `wlp4s0` to your network inte
 cargo build
 ```
 
-## run
+## Run
 
 ```bash
 sudo ./target/debug/rawsocket-rs # raw sockets require super user privileges
